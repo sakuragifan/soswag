@@ -2,5 +2,10 @@
 22222222222222222
 4444444444444444444
 
+<<<<<<< HEAD
 LZZSCL 
 WOCAOLEA
+=======
+
+just something
+>>>>>>> c4b519c64208c1f6bafad6b7c7c61e0b1c5d59fd
